@@ -25,8 +25,7 @@ SECRET_KEY = 'django-insecure-j2u$8yx01w6m%j6-%sk^8w)whc73aj7kk*!5w3vt!7-3&o38m$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['chatbot-v2-caq7.onrender.com', 'localhost', '127.0.0.1']
 
 # Application definition
 
